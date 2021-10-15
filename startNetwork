@@ -1,0 +1,1 @@
+./geth-darwin-amd64-1.10.9-eae3b194/geth -datadir data_directory/ -networkid 4777 -port 11111 -http -http.port 30303 console 2>> eth1.log

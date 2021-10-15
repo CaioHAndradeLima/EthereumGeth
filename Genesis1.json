@@ -1,0 +1,23 @@
+{
+	"config": {
+		"chainId": 4777,
+
+		"homesteadBlock": 0,
+		"eip150Block": 0,
+    "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "constantinopleBlock": 0,
+    "petersburgBlock": 0,
+    "istanbulBlock": 0,
+    "ethash": {}
+
+	},
+	"alloc": {},
+	"difficulty": "0x400",
+	"extraData": "",
+	"gasLimit": "0x7A1200",
+	"parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+	"timestamp": "0x00"
+}

@@ -1,0 +1,1 @@
+./geth-darwin-amd64-1.10.9-eae3b194/geth init Genesis1.json --datadir data_directory
